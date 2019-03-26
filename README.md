@@ -1,13 +1,12 @@
 # CPP-Verkefni1 - Andri Fannar
 **Eins og ég skrifaði í athugasemd inni á Innu er ég alltaf að fá Segmentation fault þegar ég kalla í eitthvað með this->**  
-**Hérna er nákvæmlega errorinn:**  
-
-**Hérna er linked list tímaverkefnið nema 3 int breytum í constructor í Afangi og það virkar ekki**  
+**Hérna er nákvæmlega errorinn:**   
 Program received signal SIGSEGV, Segmentation fault.  
 0x0000000000400b76 in Afangi::getID (this=0x20105025  
 8d4c54) at main.cpp:21                                
 21                  return this -> id;              
 (gdb)  
+**Hérna er linked list tímaverkefnið nema 3 int breytum í constructor í Afangi og það virkar ekki**   
 
 ```cpp
 #include <iostream>

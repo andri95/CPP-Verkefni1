@@ -1,3 +1,3 @@
 # CPP-Verkefni1 - Andri Fannar
 **Eins og ég skrifaði í athugasemd og á Innu og í tölvupósti gekk mér illa með að fá þetta til að virka útaf Segmentation Fault. Ég klóraði mér endalaust í hausnum yfir því en svo kom í ljós að ekkert var að kóðanum, heldur vantaði eitthvað Path í tölvuna eða eitthvað álíka, ég skil ekki alveg hvað var að sjálfur en ég fékk þetta til að virka og gat því klárað verkefnið.**  
-## virkni.cpp og klasar.h eru cpp/header files en ég lét fylgja með verkefni1.cpp þar sem þetta er allt saman í einu skjali (prufaði mig áfram í verkefni1.cpp og færði svo yfir í virkni.cpp/klasar.h)
+## Verkefnið er í virkni.cpp og klasar.h en ég lét fylgja með verkefni1.cpp þar sem þetta er allt saman í einu skjali (prufaði mig áfram í verkefni1.cpp og færði svo yfir í virkni.cpp/klasar.h)
